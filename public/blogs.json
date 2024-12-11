@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://i.ibb.co.com/kJ30RZY/brayden-prato-l-A-9rd-Uobaw-unsplash.jpg",
+    "title": "Exploring the Wonders of Space",
+    "author": "Jane Doe",
+    "author_img": "https://i.ibb.co.com/kJ30RZY/brayden-prato-l-A-9rd-Uobaw-unsplash.jpg",
+    "posted_date": "2024-12-11",
+    "reading_time": "5 min",
+    "hashtags": ["#Space", "#Science", "#Exploration"]
+  },
+  {
+    "id": 2,
+    "cover_img": "https://i.ibb.co.com/3mRcB61/austin-chan-ukz-Hlkoz1-IE-unsplash.jpg",
+    "title": "The Art of Minimalism",
+    "author": "John Smith",
+    "author_img": "https://i.ibb.co.com/3mRcB61/austin-chan-ukz-Hlkoz1-IE-unsplash.jpg",
+    "posted_date": "2024-12-10",
+    "reading_time": "8 min",
+    "hashtags": ["#Minimalism", "#Lifestyle", "#Design"]
+  },
+  {
+    "id": 3,
+    "cover_img": "https://i.ibb.co.com/9TMrZYp/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+    "title": "Mastering React for Web Development",
+    "author": "Emily Johnson",
+    "author_img": "https://i.ibb.co.com/9TMrZYp/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+    "posted_date": "2024-12-09",
+    "reading_time": "12 min",
+    "hashtags": ["#React", "#JavaScript", "#WebDevelopment"]
+  },
+  {
+    "id": 4,
+    "cover_img": "https://i.ibb.co.com/fnty07X/nicolas-jehly-0-UU9-1-EMv-M-unsplash.jpg",
+    "title": "Healthy Eating on a Budget",
+    "author": "Michael Brown",
+    "author_img": "https://i.ibb.co.com/fnty07X/nicolas-jehly-0-UU9-1-EMv-M-unsplash.jpg",
+    "posted_date": "2024-12-08",
+    "reading_time": "7 min",
+    "hashtags": ["#Health", "#Food", "#Budget"]
+  },
+  {
+    "id": 5,
+    "cover_img": "https://i.ibb.co.com/sC014Ng/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
+    "title": "Traveling Through the Alps",
+    "author": "Sophia Davis",
+    "author_img": "https://i.ibb.co.com/sC014Ng/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
+    "posted_date": "2024-12-07",
+    "reading_time": "10 min",
+    "hashtags": ["#Travel", "#Adventure", "#Alps"]
+  }
+]
